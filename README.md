@@ -9,7 +9,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... He
 - ⚡ Fun fact: ... Want to be an Entrepreneur. I'm Serious.
 
-class ReadMe:
+
+class Readme:
+
     def __init__(self, username="sankaram", year=2020):
         self.username = username
         self.name = 'Sankaram Das'
@@ -44,4 +46,4 @@ class ReadMe:
         opportunity = self.employment
         opportunity[role] = [organization, location]
 
-me = ReadMe(2020)
+Me = ReadMe[2020]
