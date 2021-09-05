@@ -23,7 +23,7 @@ class Readme:
             'developer': ['company', 'city'],
         }
 
-    def doing(self, now=2020):
+    def doing(self, now=2021):
         today = self.year
 
         if now < today:
