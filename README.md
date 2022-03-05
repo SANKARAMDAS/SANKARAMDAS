@@ -3,7 +3,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... my own project/freelancer project
 - 🌱 I’m currently learning ... Flutter
 - 👯 I’m looking to collaborate on ... Peojects like any kind of potential Start-up's where I can contribute my knowledge.
-- 🤔 I’m looking for help with ... Experienced Flutter Developer
+- 🤔 I’m looking for help with ... Experienced Flutter Developer & MERN Developer
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... sankaramdas@gmail.com
 - 😄 Pronouns: ... He
