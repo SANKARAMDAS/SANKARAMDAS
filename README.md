@@ -18,8 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sankaram_d" target="blank"><img align="center" src="https://user-images.githubusercontent.com/31897843/217842906-8f300c3f-b6e7-4809-9114-3dfe3be6e9dd.png" alt="cynthiakonar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sankaramdas" target="blank"><img align="center" src="https://user-images.githubusercontent.com/31897843/217843421-cbadcca8-9584-4c31-8a40-85826f64184c.png" alt="cynthia-konar-649b5721b" height="30" width="40" /></a>
+<a href="https://twitter.com/sankaram_d" target="blank"><img align="center" src="https://user-images.githubusercontent.com/31897843/217842906-8f300c3f-b6e7-4809-9114-3dfe3be6e9dd.png" alt="cynthiakonar" height="30" width="40" /></a>     <a href="https://www.linkedin.com/in/sankaramdas" target="blank"><img align="center" src="https://user-images.githubusercontent.com/31897843/217843421-cbadcca8-9584-4c31-8a40-85826f64184c.png" alt="cynthia-konar-649b5721b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
