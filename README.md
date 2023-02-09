@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 there, I'm Sankaram</h1>
 <h3 align="center">A passionate Full Stack(Flutter, React) developer from Calcutta, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SANKARAMDAS&style=flat-square" alt="cynthiakonar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SANKARAMDAS&style=flat-square" alt="sand" /> </p>
 
 - 🔭 I’m currently working on [Not Specific(MUltiple projects)](https://github.com/SANKARAMDAS)
 
