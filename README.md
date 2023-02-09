@@ -1,49 +1,34 @@
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Sankaram</h1>
+<h3 align="center">A passionate Full Stack(Flutter, React) developer from Calcutta, India</h3>
 
-- 🔭 I’m currently working on ... my own project/freelancer project
-- 🌱 I’m currently learning ... Flutter
-- 👯 I’m looking to collaborate on ... Projects like any kind of potential Start-up's where I can contribute my knowledge.
-- 🤔 I’m looking for help with ... Experienced Flutter Developer & MERN Developer
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... sankaramdas@gmail.com
-- 😄 Pronouns: ... He
-- ⚡ Fun fact: ... Want to be an Entrepreneur. I'm Serious.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cynthiakonar&label=Profile%20views&color=ffbe33&style=plastic" alt="cynthiakonar" /> </p>
+
+- 🔭 I’m currently working on [Not Specific(MUltiple projects)](https://github.com/SANKARAMDAS)
+
+- 🌱 I’m currently learning **Flutter, Dart, JavaScript, React, NodeJS**
+
+- 🔮 Future plan, will learn **Next, Docker**
+
+- 💬 Ask me about **anything related to Mobile/Web App Dev.**
+
+- 📫 How to reach me **sankaramdas@gmail.com**
+
+- ⚡ Fun fact **I LOVE boiled potatoes and briyani**
 
 
-class Readme:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sankaram_d" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/31897843/217842906-8f300c3f-b6e7-4809-9114-3dfe3be6e9dd.png)" alt="cynthiakonar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sankaramdas" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/31897843/217843421-cbadcca8-9584-4c31-8a40-85826f64184c.png)" alt="cynthia-konar-649b5721b" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/cynthia konar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cynthia konar" height="30" width="40" /></a>
+</p>
 
-    def __init__(self, username="sankaram", year=2020):
-        self.username = username
-        self.name = 'Sankaram Das'
-        self.education = {
-            'programming': ['Full Stack Mobile Development', 'The AppBrewery/Udacity'],
-            'bachelor ': ['Bachelor of Technology', 'DIATM']
-        }
-        self.employment = {
-            'developer': ['company', 'city'],
-        }
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-    def doing(self, now=2021):
-        today = self.year
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cynthiakonar&show_icons=true&theme=dark&title_color=ffbe33&text_color=ffffff&locale=en" alt="cynthiakonar" /></p>
 
-        if now < today:
-            experience = self.employment['programming']
-            return """
-            I am currently learning {code} at {the_appbrewery}.
-            """.format(code=dream[0], the_appbrewery=dream[1])
-        
-        elif now => today:
-            goal = self.employment['developer']
-            return """
-            I am eager to collaborate with {teams} on {projects}.
-            """.format(teams=goal[0], projects='mobile development')
-        else:
-            return """
-            ### Hi there 👋
-            """
-        
-    def collaborate(self, role, organization, location):
-        opportunity = self.employment
-        opportunity[role] = [organization, location]
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cynthiakonar&theme=dark" alt="cynthiakonar" /></p>
 
-Me = ReadMe[2020]
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/cynthiakonar"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cynthiakonar" /></a></p><br><br>
