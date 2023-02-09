@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sankaram</h1>
+<h1 align="center">Hi 👋 there, I'm Sankaram</h1>
 <h3 align="center">A passionate Full Stack(Flutter, React) developer from Calcutta, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cynthiakonar&label=Profile%20views&color=ffbe33&style=plastic" alt="cynthiakonar" /> </p>
