@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SANKARAMDAS&style=flat-square" alt="sand" /> </p>
 
-- 🔭 I’m currently working on [Different Side projects!!](https://github.com/SANKARAMDAS)
+- 🔭 I’m currently working on [Different Side projects!](https://github.com/SANKARAMDAS)
 
 - 🌱 I’m currently learning **Flutter, Dart, JavaScript, React, NodeJS**
 
