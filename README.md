@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Different Side projects!](https://github.com/SANKARAMDAS)
 
-- 🌱 I’m currently learning **Flutter, Dart, JavaScript, React, NodeJS**
+- 🌱 I’m currently learning **Flutter, Next, MySql, MongoDB, Dart, JavaScript, React, Express, NodeJS**
 
 - 🔮 Future plan, will learn **Next, Docker**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sankaramdas@gmail.com**
 
-- ⚡ Fun fact **I LOVE boiled potatoes and briyani**
+- ⚡ Fun fact **I LOVE boiled potatoes and biryani**
 
 
 <h3 align="left">Connect with me:</h3>
