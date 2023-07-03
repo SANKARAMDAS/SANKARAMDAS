@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 there, I'm Sankaram</h1> 
-<h3 align="center">A passionate Full Stack(Flutter, React) developer from Calcutta(Kolkata), India</h3>
+<h3 align="center">A passionate Full Stack(Flutter, React/Next) developer from Calcutta(Kolkata), India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SANKARAMDAS&style=flat-square" alt="sand" /> </p>
 
