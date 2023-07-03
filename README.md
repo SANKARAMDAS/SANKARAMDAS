@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [Different Side projects!](https://github.com/SANKARAMDAS)
 
-- 🌱 I’m currently learning **Flutter, Next, MySql, MongoDB, Dart, JavaScript, React, Express, NodeJS**
+- 🌱 I’m currently learning **Flutter, JavaScript, Next, React, Express, NodeJS, MySql, MongoDB, Dart**
 
-- 🔮 Future plan, will learn **Next, Docker**
+- 🔮 Future plan, will learn **AWS, Docker**
 
-- 💬 Ask me about **anything related to Mobile/Web App Dev.**
+- 💬 Ask me about **anything related to Mobile/Web App Development.**
 
 - 📫 How to reach me **sankaramdas@gmail.com**
 
