@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sankaramdas@gmail.com**
 
-- ⚡ Fun fact **I LOVE boiled potatoes and biryani**
+- ⚡ Fun fact **I LOVE Boiled Potatoes and Biryani**
 
 
 <h3 align="left">Connect with me:</h3>
