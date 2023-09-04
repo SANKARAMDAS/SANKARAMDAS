@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything related to Mobile/Web App Development.**
 
-- 📫 How to reach me **sankaramdas@gmail.com**
+- 📫 How to reach me **das95sankaram@gmail.com**
 
 - ⚡ Fun fact **I LOVE Boiled Potatoes and Biryani**
 
