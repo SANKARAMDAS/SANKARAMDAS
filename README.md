@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Flutter, JavaScript, Next, React, Express, NodeJS, MySql, MongoDB, Dart**
 
-- 🔮 Future plan, will learn **AWS, Docker**
+- 🔮 Future plan, will learn **AWS, AI/ML, Docker**
 
 - 💬 Ask me about **anything related to Mobile/Web App Development.**
 
 - 📫 How to reach me **das95sankaram@gmail.com**
 
-- ⚡ Fun fact **I LOVE Boiled Potatoes and Biryani**
+- ⚡ Fun fact **I LOVE mashed potatoes and Biryani**
 
 
 <h3 align="left">Connect with me:</h3>
