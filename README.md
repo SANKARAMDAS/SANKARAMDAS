@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **das95sankaram@gmail.com**
 
-- ⚡ Fun fact **I LOVE mashed potatos and Biryani**
+- ⚡ Fun fact **I LOVE mashed potatoes and Biryani**
 
 
 <h3 align="left">Connect with me:</h3>
