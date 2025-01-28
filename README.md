@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SANKARAMDAS&style=flat-square" alt="sand" /> </p>
 
-- 🔭 I’m currently working on [Different side projects!](https://github.com/SANKARAMDAS)
+- 🔭 I’m currently working on [♾ side projects!](https://github.com/SANKARAMDAS)
 
-- 🌱 I’m currently learning **Flutter, JavaScript, Next, React, Express, NodeJS, MySql, MongoDB, Dart**
+- 🌱 I’m currently learning **Flutter, JavaScript, Next, React, Express, NodeJS, MySql, MongoDB, Dart, Python**
 
-- 🔮 Future plan, will learn **AWS, AI/ML, Docker**
+- 🔮 Future plan, will learn **AWS, AI/ML(LLM), Docker**
 
 - 💬 Ask me about **anything related to Mobile/Web App Development.**
 
 - 📫 How to reach me **das95sankaram@gmail.com**
 
-- ⚡ Fun fact **I LOVE mashed potatoes and Biryani**
+- ⚡ Fun fact **I LOVE mashed potatos and Biryani**
 
 
 <h3 align="left">Connect with me:</h3>
